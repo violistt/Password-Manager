@@ -6,7 +6,7 @@ You don't need to have info.txt saved, program will make it for you in current p
 
 
 #Viewing saved data
-# Tested in Linux OS. Don't guarantee, that it works on Windows or Mac.
+Tested in Linux OS. I don't guarantee, that it works on Windows or Mac.
 
 
 There are several ways to view saved data. You can check them straight in terminal. Another option is open it in your browser.
